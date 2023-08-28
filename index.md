@@ -12,4 +12,6 @@
 # ADDING IMAGES
 ![Flowers](https://cdn2.1800flowers.com/wcsstore/Flowers/images/catalog/191119xlx.jpg?width=545&height=597&quality=80&auto=webp&optimize={medium})
 
-
+``` javascript
+var myVar = "Hello, world!";
+```
